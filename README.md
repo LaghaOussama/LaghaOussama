@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @LaghaOussama
-- 👀 I’m interested in Web development and software engineering
-- 🌱 I’m currently learning javascript and python 
-- 💞️ I’m looking to collaborate on web apps 
-- 📫 How to reach me :lagha.1993@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 Préparation Certifications IT  
+**Dépôt dédié à ma progression en développement Full-Stack et Cloud.**  
 
-<!---
-LaghaOussama/LaghaOussama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📜 Certifications en cours  
+- [Meta Front-End Developer (React)](https://www.coursera.org/professional-certificates/meta-front-end-developer)  
+- [AWS Cloud Practitioner](https://aws.amazon.com/certification/)  
+
+## 🛠️ Projets à venir  
+- Clone Netflix avec React  
+- App de gestion de tâches (MERN Stack)  
