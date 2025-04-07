@@ -8,3 +8,7 @@
 ## 🛠️ Projets à venir  
 - Clone Netflix avec React  
 - App de gestion de tâches (MERN Stack)  
+
+## 📈 Activité GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=LaghaOussama&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaghaOussama&layout=compact)
